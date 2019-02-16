@@ -1,6 +1,7 @@
 {
 	"author": "Mustufa Kalyanwalla",
 	"name": "fcc-learn-npm-package-json",
+	"description": "Learning package.json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
